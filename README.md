@@ -1,2 +1,2 @@
-# the-learning-of-mlaction
-the learning of Machine Learning Action
+# the-learning-of-ml
+the learning of Machine Learning
